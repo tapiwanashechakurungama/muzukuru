@@ -78,13 +78,6 @@ A modern, responsive Todo application built with React, TypeScript, Vite, and Ta
 3. Vercel will automatically detect your Vite project and set up the build settings
 4. Click "Deploy" and your app will be live!
 
-### Netlify
-
-1. Push your code to a Git repository
-2. Import your project on [Netlify](https://app.netlify.com/)
-3. Set the build command to `npm run build`
-4. Set the publish directory to `dist`
-5. Click "Deploy site"
 
 ### Manual Build
 
